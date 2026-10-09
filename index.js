@@ -1,7 +1,7 @@
 const { Telegraf, Markup } = require('telegraf');
 const express = require('express');
 
-const BOT_TOKEN = '8826250953:AAHW0pqJrUorqBXBnrq-vJYAEMGWNFnm9Sg';
+const BOT_TOKEN = '8826250953:AAHW0pqJrUorqBXBnrq-vJYAEMGWNFnm95g';
 const CHANNEL_USERNAME = '@jdhchannel_it';
 
 const bot = new Telegraf(BOT_TOKEN);
